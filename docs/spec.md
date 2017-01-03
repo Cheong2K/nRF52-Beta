@@ -1,8 +1,9 @@
-# nRF52
+# RedBear nRF52832
 
-## RedBear BLE Module: MB-N2 
 
-![image](images/BLEModule.png)
+## BLE Module (MB-N2)
+
+![image](images/MB-N2/BLEModule.png)
 
 ### Features
 
@@ -10,15 +11,15 @@
     * ARM Cortex-M4F (32-bit, @64MHz)
     * Bluetooth 4.2 certified and 5.0 ready (BLE only)
     * NFC
-    * 64 KB SRAM
-    * 512 KB Flash
+    * 64KB SRAM
+    * 512KB Flash
     * FPU
     * DSP
 * Onboard Chip Antenna
 * Certifications
     * CE
     * FCC
-    * BQE
+    * BQB
 * Total 32-I/O, includes
     * 1 x UART
     * 2 x I2C
@@ -47,43 +48,64 @@
 * Interactive games
 * Building automation and sensor networks
 
+### Pinout
+
+![MB-N2_Pinout](./images/MB-N2/MB-N2_Pinout.png)
+
+### Datasheet
+
+* [MB-N2_Datasheet](../datasheet/MB-N2_Datasheet.pdf)
+
+### Eagle library
+
+* [Eagle lib](../pcb/eagle)
+
+
 ## BLE Nano 2
 
-![image](images/Nano2.png)
+![image](images/Nano2/Nano2.png)
 
 ### Features
 
 * Build around the RedBear MB-N2
 * World smallest Bluetooth 5.0 development board (BLE only)
 * User Interface
-    * 1 x LED
+    * 1 x Programmable LED (L, also connected to Pin 13)
 * I/O Capabilities
     * 12 x Digital I/O (an I/O occupied for the onboard LED)
     * 12 x PWM (a PWM occupied for the onboard LED)
-    * 6 x ADC
+    * 7 x ADC
 * Peripherals
     * BLE
     * NFC
-    * 1 x UART
+    * 1 x UART (connected to the USB interface chip by default)
     * 2 x SPI
-    * 1 x I2C
-    * Serial Wire Debug (SWD) port
+    * 2 x I2C
 * Physical Dimensions
     * 18 mm x 21 mm
 * Input Voltage
     * VIN: 3.3V to 13V
     * VDD: 1.8V to 3.3V
 * Operation Voltage
-    * 1.8V - 3.6V    
+    * 1.8V - 3.6V
 * Development Platforms:
     * Arduino IDE (Wiring / C++)
     * Espruino Web IDE (JavaScript)
     * nRF52 SDK with Keil or GCC (Native C)
     * ARM mbed Web IDE (C++)
-    
+
+### Pinout
+
+![Nano2_Pinout](./images/Nano2/Nano2_Pinout.png)
+
+### Schematic
+
+* [Nano2.0 Schematic](../pcb/schematic/Nano V2.0 SCH 20161102.pdf)
+
+
 ## DAPLink
 
-![image](images/DAPLink.png)
+![image](images/DAPLink/DAPLink.png)
 
 ### Features
 
@@ -107,9 +129,14 @@
 * Operation Voltage
     * 3.3V
 
-## BLEND 2
+### Schematic
 
-![image](images/Blend2.png)
+* [DAPLink Schematic](../pcb/schematic/DAPLink V1.5 SCH 20161230.pdf)
+
+
+## Blend 2
+
+![image](images/Blend2/Blend2.png)
 
 ### Features
 
@@ -150,3 +177,18 @@
     * Espruino Web IDE (JavaScript)
     * nRF52 SDK with Keil or GCC (Native C)
     * ARM mbed Web IDE (C++)
+
+### Pinout
+
+![Blend_PinMap](./images/Blend2/Blend2_Pinout.png)
+
+### Schematic
+
+* [Blend 2 Schematic](../pcb/schematic/Blend v2.0 SCH 20161102.pdf)
+
+
+## Resources
+
+* [nRF52832 Datasheet]()
+
+
