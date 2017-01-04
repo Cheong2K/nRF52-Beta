@@ -24,13 +24,13 @@ With your support, we will get our module certified for CE, FCC and Bluetooth. I
 
 ![image](./docs/images/MB-N2/MB-N2.jpg)
 
-If you have a great project idea using this Datasheet for module MB-N2.
+If you have great project ideas, please refer to the [datasheet](./datasheet/MB-N2 Datasheet.pdf) of the module MB-N2.
 
 ## BLE Nano 2
 
 ![image](./docs/images/Nano2/Nano2.png)
 
-We launched our first BLE Nano in 2014 and it is our most popular product. We design Nano 2 as a ‘drop-in’ replacement, with exactly the same form factor, and in most instances no need to change firmware code. In addition, the new development board also offers a U.FL connector for an external NFC antenna, while users will benefit from the extra processing power and hardware resources of the nRF52832 SoC.
+We launched our first BLE Nano in 2014 and it is our most popular product. We design Nano 2 as a ‘drop-in’ replacement, with exactly the same form factor, and in most instances only need to change few firmware code. In addition, the new development board also offers a U.FL connector for an external NFC antenna, while users will benefit from the extra processing power and hardware resources of the nRF52832 SoC.
 
 ![image](./docs/images/Nano2/Nano2_Pinout.png)
 
@@ -56,10 +56,10 @@ You should choose the Blend 2 if you want to test all GPIOs and functions availa
 
 ## Resoureces
 
-* Documentations
-	* Getting Started Guide
+* [Documentations](./docs)
+	* [Getting Started Guide](./docs/Getting_Started_Guide.md)
 * Nordic nRF52832 Datasheet
-* MB-N2 Datasheet
+* [MB-N2 Datasheet](./datasheet/MB-N2 Datasheet.pdf)
 
 
 
