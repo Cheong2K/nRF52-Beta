@@ -57,11 +57,11 @@ You should choose the Blend 2 if you want to test all GPIOs and functions availa
 ## Resoureces
 
 * [Documentations](./docs)
+	* [Product Specifications](./docs/Specifications.md)
 	* [Getting Started Guide](./docs/Getting_Started_Guide.md)
-* Nordic nRF52832 Datasheet
+* [Nordic nRF52832 Product Specification](http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fchips%2Fnrf52832_ps.html)
 * [MB-N2 Datasheet](./datasheet/MB-N2 Datasheet.pdf)
-
-
+* [PCB Files](./pcb)
 
 
 
