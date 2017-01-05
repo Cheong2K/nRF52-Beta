@@ -36,7 +36,7 @@ We launched our first BLE Nano in 2014 and it is our most popular product. We de
 
 ### DAPLink
 
-This board has an ARM Cortex-M3 MCU and is used to program and debug an application running on Nano 2 via SWD. DAPLink is an open source project by ARM mbed team, more about DAPLink.
+This board has an ARM Cortex-M3 MCU and is used to program and debug an application running on Nano 2 via SWD. DAPLink is an open source project by ARM mbed team, more about [DAPLink](https://developer.mbed.org/handbook/DAPLink).
 
 ![image](./docs/images/DAPLink/DAPLink_Pinout.jpg)
 
