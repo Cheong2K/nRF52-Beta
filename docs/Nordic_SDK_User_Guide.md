@@ -56,9 +56,9 @@ This document introduces how to use the Nordic SDK12 with board nRF52832. Nordic
 
  * After these steps, now you can compile and upload the project!
 
-### 5. DAPLink configuration
+### 5. DAPLink Configuration
  
- * Please refer to [DAPLink-User-Guider](DAPLink_User_Guide.md).
+ * Please refer to the [DAPLink User Guide](DAPLink_User_Guide.md).
 
 
 ## Development with eclipse IDE and GCC

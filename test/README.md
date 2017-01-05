@@ -1,2 +1,3 @@
-# nRF52-Beta
-For nRF52 Beta Testing
+# nRF52-Test
+
+This folder contains some pre-compiled test firmwares for testing.
