@@ -27,7 +27,7 @@ To test the board for the first time, follow these steps:
 
 ## Nordic SDK
 
-- To be written -
+* Follow the [Nordic nRF52 SDK User Guide](./Nordic_SDK_User_Guide.md).
 
 ## mbed
 

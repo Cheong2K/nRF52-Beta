@@ -1,14 +1,14 @@
-#Nordic SDK User Guide
------------------------------------------------------------
-This document introduces how to use the Nordic SDK12 with board nRF52832. Nordic SDK supurts Keil5.x, GCC and Eclipse development.Here only instroduces the development of Keil5.x IDE.
+# Nordic SDK User Guide
 
-##Development of KEIL5.xx IDE
+This document introduces how to use the Nordic SDK12 with board nRF52832. Nordic SDK supports Keil 5.x, GCC and Eclipse development. Here, we will only instroduce the development using Keil 5.x IDE.
 
-###1.Download Keil5.xx and install
+## Development of KEIL 5.xx IDE
+
+### 1. Download Keil5.xx and install
 
  * Download [MDK-ARM](https://www.keil.com/download/product/ "MDK-ARM").
 
-###2.Download SDK
+### 2. Download SDK
 
  * Download SDK from Nordic Official site:
 
@@ -18,7 +18,7 @@ This document introduces how to use the Nordic SDK12 with board nRF52832. Nordic
 
     ![nordic_sdk_1](images/nordic_sdk/nordic_sdk_1.png)
 
-###3.Installing pack of NordicSemiconductor
+### 3. Installing pack of NordicSemiconductor
 
  * Open ***Keil uVision 5***, click ***pack install***:
 
@@ -34,7 +34,7 @@ This document introduces how to use the Nordic SDK12 with board nRF52832. Nordic
 
     ![nordic_sdk_5](images/nordic_sdk/nordic_sdk_5.png)
 
-###4.Configuration for Compiling and uploading
+### 4. Configuration for Compiling and uploading
 
  * If use softdevice-s132-3.0, IROM should start at 0x1F000,IRAM is defined according to the actual used:
 
@@ -56,11 +56,13 @@ This document introduces how to use the Nordic SDK12 with board nRF52832. Nordic
 
  * After these steps, now you can compile and upload the project!
 
-###5.DAPLink configuration
+### 5. DAPLink configuration
  
  * Please refer to [DAPLink-User-Guider](DAPLink_User_Guide.md).
 
 
-##Development with eclipse IDE and GCC
+## Development with eclipse IDE and GCC
 
  * Please refer to [https://devzone.nordicsemi.com/tutorials/7/](https://devzone.nordicsemi.com/tutorials/7/ "Development with GCC and Eclipse")
+ 
+ 
