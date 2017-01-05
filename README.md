@@ -20,11 +20,13 @@ At the heart of all the new products is our new BLE Module model# MB-N2. It hous
 
 The module provides all GPIO pins and supports all advance features offer by Nordic nRF52832.
 
-With your support, we will get our module certified for CE, FCC and Bluetooth. If you use this module for your own products, not only you have the assurance, you will also save some cost on your own product certifications.
+With your support, we have our module certified for CE, FCC and Bluetooth. If you use this module for your own products, not only you have the assurance, you will also save some cost on your own product certifications.
+
+Bluetooth QDID: [91904](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=33543)
 
 ![image](./docs/images/MB-N2/MB-N2.jpg)
 
-If you have great project ideas, please refer to the [datasheet](./datasheet/MB-N2 Datasheet.pdf) of the module MB-N2.
+If you have some great project ideas, please refer to the [datasheet](./datasheet/MB-N2 Datasheet.pdf) of the module MB-N2 for details.
 
 ## BLE Nano 2
 

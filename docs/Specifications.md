@@ -10,6 +10,7 @@
 * Nordic Semiconductor nRF52832 SoC
     * ARM Cortex-M4F (32-bit, @64MHz)
     * Bluetooth 4.2 certified and 5.0 ready (BLE only)
+    	* Bluetooth QDID: [91904](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=33543)
     * NFC
     * 64KB SRAM
     * 512KB Flash
@@ -19,7 +20,7 @@
 * Certifications
     * CE
     * FCC
-    * BQB
+    * [BQB](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=33543)
 * Total 32-I/O, includes
     * 1 x UART
     * 2 x I2C
