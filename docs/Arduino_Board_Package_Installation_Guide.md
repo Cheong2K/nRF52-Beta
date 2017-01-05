@@ -1,11 +1,12 @@
 
-# nRF5x - Arduino Board Package User Guide
+# nRF52 - Arduino Installation Guide
 
-The nRF5x support developing application on Arduino IDE 1.6.7 or above.
+* The nRF52 boards support developing applications using Arduino IDE 1.8.0 or above.
+* Current tested version 1.8.0
 
 ## Install nRF52 Board Package
 
-We assume that you have installed Arduino IDE 1.8.0 or above on your computer, or you have to [download](https://www.arduino.cc/en/Main/Software) and install it first. To install the board package for the nRF5x board, please work through the following steps.
+We assume that you have installed Arduino IDE 1.8.0 or above on your computer, or you have to [download](https://www.arduino.cc/en/Main/Software) and install it first. To install the board package for the nRF52 boards, please work through the following steps.
 
 1. Start Arduino IDE.
 
