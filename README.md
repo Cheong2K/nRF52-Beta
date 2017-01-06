@@ -56,6 +56,14 @@ You should choose the Blend 2 if you want to test all GPIOs and functions availa
 
 ![image](./docs/images/Blend2/Blend2_Pinout.png)
 
+## Technical Support
+
+* If you think you have a **faulty unit**, kindly [open a support ticket](https://redbear.freshdesk.com/) and the support team will follow up with you.
+
+* For software issues, please submit in this repository.
+
+* [Nordic Forum](https://devzone.nordicsemi.com/questions/)
+
 ## Resoureces
 
 * [Documentations](./docs)
