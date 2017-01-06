@@ -20,11 +20,13 @@ At the heart of all the new products is our new BLE Module model# MB-N2. It hous
 
 The module provides all GPIO pins and supports all advance features offer by Nordic nRF52832.
 
-With your support, we will get our module certified for CE, FCC and Bluetooth. If you use this module for your own products, not only you have the assurance, you will also save some cost on your own product certifications.
+With your support, we have our module certified for CE, FCC and Bluetooth. If you use this module for your own products, not only you have the assurance, you will also save some cost on your own product certifications.
+
+Bluetooth QDID: [91904](https://www.bluetooth.org/tpg/QLI_viewQDL.cfm?qid=33543)
 
 ![image](./docs/images/MB-N2/MB-N2.jpg)
 
-If you have great project ideas, please refer to the [datasheet](./datasheet/MB-N2 Datasheet.pdf) of the module MB-N2.
+If you have some great project ideas, please refer to the [datasheet](./datasheet/MB-N2 Datasheet.pdf) of the module MB-N2 for details.
 
 ## BLE Nano 2
 
@@ -36,7 +38,7 @@ We launched our first BLE Nano in 2014 and it is our most popular product. We de
 
 ### DAPLink
 
-This board has an ARM Cortex-M3 MCU and is used to program and debug an application running on Nano 2 via SWD. DAPLink is an open source project by ARM mbed team, more about DAPLink.
+This board has an ARM Cortex-M3 MCU and is used to program and debug an application running on Nano 2 via SWD. DAPLink is an open source project by ARM mbed team, more about [DAPLink](https://developer.mbed.org/handbook/DAPLink).
 
 ![image](./docs/images/DAPLink/DAPLink_Pinout.jpg)
 
