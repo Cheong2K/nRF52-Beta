@@ -26,6 +26,10 @@ For Windows 10, you do not need the driver.
 
 For others, please refer to this [https://developer.mbed.org/handbook/Windows-serial-configuration](https://developer.mbed.org/handbook/Windows-serial-configuration "DAPLink_Windows_Driver")
 
+After installing driver, will see:
+
+![DAPLink_Driver](./images/DAPLink/DAPLink_Driver.png)
+
 ## Update interface firmware
 
 Pressing button and connecting to PC, the driver ***"MAINTENANCE"*** will appeare.Drag the interface firmware(.bin file) into the driver, re-connected to PC.

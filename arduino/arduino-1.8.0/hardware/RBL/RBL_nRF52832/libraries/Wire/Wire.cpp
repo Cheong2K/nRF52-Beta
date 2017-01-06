@@ -42,8 +42,12 @@ TwoWire::TwoWire()
 
 void TwoWire::begin(uint8_t scl, uint8_t sda, uint32_t speed)
 {
-    PinName nrf_sda, nrf_scl;
-
+    PinName nrf_sda;
+    PinName nrf_scl;
+    
+    if(twi_status != UNINITIALIZED)
+        return;
+    
     nrf_scl = Pin_Arduino_to_nRF52(scl);
     nrf_sda = Pin_Arduino_to_nRF52(sda);
 
