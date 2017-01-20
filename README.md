@@ -56,15 +56,15 @@ You should choose the Blend 2 if you want to test all GPIOs and functions availa
 
 ![image](./docs/images/Blend2/Blend2_Pinout.png)
 
-## Getting Start
+## Getting Started
 
 Before starting to use the nRF52832 boards, you need to do some preparations.
 
-* [Out-of-Box Test](https://github.com/redbear/nRF52-Beta/blob/master/docs/Getting_Started_Guide.md).
+* [Out-of-Box Test](https://github.com/redbear/nRF52-Beta/blob/master/docs/Getting_Started_Guide.md) will guide you to test the nRF52 board.
   
 * [Updating the DAPLink interface firmware](https://github.com/redbear/nRF52-Beta/tree/master/daplink "firmware") to the latest version, otherwise, you may have problem for drag-n-drop programming the nRF52 SoC.
 
-* [Installing nRF52832 board package](https://github.com/redbear/nRF52-Beta/blob/master/docs/Arduino_Board_Package_Installation_Guide.md) for using the Arduino IDE for development.
+* [Installing nRF52832 board package](https://github.com/redbear/nRF52-Beta/blob/master/docs/Arduino_Board_Package_Installation_Guide.md) for using the Arduino IDE for development your projects.
 
 ## Technical Support
 
