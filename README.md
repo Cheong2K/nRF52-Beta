@@ -56,6 +56,15 @@ You should choose the Blend 2 if you want to test all GPIOs and functions availa
 
 ![image](./docs/images/Blend2/Blend2_Pinout.png)
 
+## Getting Start
+Before starting to play nRF52832 boards, need to do some preparations.
+
+* [Out-of-Box Test](https://github.com/redbear/nRF52-Beta/blob/master/docs/Getting_Started_Guide.md).
+  
+* Updating the DAPLink interface [firmware](https://github.com/redbear/nRF52-Beta/tree/master/daplink "firmware").
+
+* [Installing nRF52832 board package](https://github.com/redbear/nRF52-Beta/blob/master/docs/Arduino_Board_Package_Installation_Guide.md).
+
 ## Technical Support
 
 * If you think you have a **faulty unit**, kindly [open a support ticket](https://redbear.freshdesk.com/) and the support team will follow up with you.
